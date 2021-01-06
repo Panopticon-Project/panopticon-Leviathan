@@ -9,3 +9,5 @@ https://www.fireeye.com/blog/threat-research/2018/03/suspected-chinese-espionage
 https://www.zdnet.com/article/microsoft-removed-18-azure-ad-apps-used-by-chinese-state-sponsored-hacker-group/
 
 https://www.securityweek.com/microsoft-says-china-linked-hackers-abused-azure-attacks
+
+https://threatpost.com/microsoft-azure-chinese-hackers/159551/
